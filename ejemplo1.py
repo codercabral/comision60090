@@ -20,4 +20,4 @@ multiplicar(int(input("ingresa el primer numero: ")),int(input("ingresa el segun
 
 
 print("estoy en la rama ema")
-print("estoy github")
+print("estoy github desde la plataforma")
