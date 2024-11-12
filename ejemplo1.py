@@ -3,6 +3,10 @@ def saludando():
 
 saludando()
 
+def pasado():
+    print("estoy en el pasado")
+
+pasado()
 def sumar(n1,n2):
     print("el resultado de la suma entre n1 + n2 es de: ", n1 + n2)
 
